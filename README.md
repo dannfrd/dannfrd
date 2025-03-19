@@ -28,7 +28,7 @@ const dannfrd = {
   learning: ["Laravel", "React", "Python"],
   currentFocus: "Learning the basics of web development",
   interests: ["Frontend design", "Simple web applications"],
-  goals: "Building my first complete project",
+  goals: "Building my first full project and mastering many programming languages",
   funFact: "My Pudgy character helps me debug when I'm stuck!"
 };
 ```
