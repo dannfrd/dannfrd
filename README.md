@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/MpBMQCb.gif" alt="Matrix Code Banner" width="100%"/>
+  <img src="Matriks.gif" alt="Matrix Code Banner" width="100%"/>
 </div>
 
 <h1 align="center">
