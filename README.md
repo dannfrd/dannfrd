@@ -24,11 +24,12 @@
 
 ```javascript
 const dannfrd = {
-  code: ["Laravel", "TypeScript", "Python"],
-  tools: ["React"],
-  architecture: ["microservices", "event-driven", "serverless"],
-  currentFocus: "Building scalable web applications with modern tech stacks",
-  funFact: "I debug code like Pudgy hacks the Matrix"
+  code: ["HTML", "CSS", "JavaScript"],
+  learning: ["Laravel", "React", "Python"],
+  currentFocus: "Learning the basics of web development",
+  interests: ["Frontend design", "Simple web applications"],
+  goals: "Building my first complete project",
+  funFact: "My Pudgy character helps me debug when I'm stuck!"
 };
 ```
 
