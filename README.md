@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Matriks.gif" alt="Matrix Code Banner" width="100%"/>
+  <img src="assets/Matriks.gif" alt="Matrix Code Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -36,7 +36,7 @@ const dannfrd = {
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## <img src="World.gif" width="30"> Tech Stack
+## <img src="assets/World.gif" width="30"> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,go,rust,mongodb,postgres,aws,docker&theme=dark" />
@@ -53,7 +53,7 @@ const dannfrd = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=dark&background=000000&ring=0CF474&fire=0CF474&currStreakLabel=0CF474" alt="GitHub Streak Stats"/>
 </div>
 
-## <img src="Cat.gif" width="30"> Current Projects
+## <img src="assets/Cat.gif" width="30"> Current Projects
 
 <div align="center">
   <!-- <a href="#">
@@ -81,7 +81,7 @@ const dannfrd = {
 
 <div align="center">
   <h3>🐧 Pudgy's Coding Adventures</h3>
-  <img width="300" src="pudgy.gif" alt="Pudgy Coding"/>
+  <img width="300" src="assets/pudgy.gif" alt="Pudgy Coding"/>
   <p><i>When Pudgy isn't hacking the Matrix, he's building awesome software!</i></p>
 </div>
 
