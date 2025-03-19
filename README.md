@@ -24,8 +24,8 @@
 
 ```javascript
 const dannfrd = {
-  code: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
-  tools: ["React", "Next.js", "Node.js", "Docker", "AWS"],
+  code: ["Laravel", "TypeScript", "Python"],
+  tools: ["React"],
   architecture: ["microservices", "event-driven", "serverless"],
   currentFocus: "Building scalable web applications with modern tech stacks",
   funFact: "I debug code like Pudgy hacks the Matrix"
@@ -36,7 +36,7 @@ const dannfrd = {
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="30"> Tech Stack
+## <img src="World.gif" width="30"> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,go,rust,mongodb,postgres,aws,docker&theme=dark" />
@@ -53,7 +53,7 @@ const dannfrd = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=dark&background=000000&ring=0CF474&fire=0CF474&currStreakLabel=0CF474" alt="GitHub Streak Stats"/>
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Current Projects
+## <img src="Cat.gif" width="30"> Current Projects
 
 <div align="center">
   <a href="#">
