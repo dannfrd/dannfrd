@@ -56,15 +56,13 @@ const dannfrd = {
 ## <img src="Cat.gif" width="30"> Current Projects
 
 <div align="center">
-  <a href="#">
+  <!-- <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=project-name&theme=dark&bg_color=000000&icon_color=0CF474&title_color=0CF474&text_color=FFFFFF" />
   </a>
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=another-project&theme=dark&bg_color=000000&icon_color=0CF474&title_color=0CF474&text_color=FFFFFF" />
-  </a>
+  </a> -->
 </div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 
 <div align="center">
   <a href="https://twitter.com/USERNAME">
