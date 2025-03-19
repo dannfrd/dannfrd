@@ -81,7 +81,7 @@ const dannfrd = {
 
 <div align="center">
   <h3>🐧 Pudgy's Coding Adventures</h3>
-  <img width="300" src="https://yourPudgyImage.gif" alt="Pudgy Coding"/>
+  <img width="300" src="pudgy.gif" alt="Pudgy Coding"/>
   <p><i>When Pudgy isn't hacking the Matrix, he's building awesome software!</i></p>
 </div>
 
