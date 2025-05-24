@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=120&section=header&text=Ardan%20Ferdiansah&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI+Designer;React+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Designer;React+Specialist" alt="Typing SVG" />
   </p>
   
   <p align="center">
@@ -19,13 +19,14 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" height="180" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 - 🎓 Informatics Student at **Politeknik Negeri Semarang**
-- 💡 Passionate about clean UI, responsive design, and web interactivity
-- 🛠 Tech Stack: React, JavaScript, PHP, Python, MySQL
-- 🌱 Currently learning: React Native & Laravel
-- 🧠 Focus: Building reusable UI components and clean dashboards
+- 💻 Front-End Developer focusing on **React** ecosystem and modern JavaScript
+- 🎨 UI Designer with expertise in **clean, responsive designs**
+- 🔄 Experience with RESTful APIs integration and state management
+- 🌱 Currently exploring **React Native** for mobile & **NextJS** for server-side rendering
+- 🧠 Passionate about component-driven development and micro-frontend architecture
 - 🧩 Fun fact: I debug better when drinking coffee ☕️
 
 ---
@@ -33,20 +34,30 @@
 ## 🧰 Tech Stack
 
 <div align="center">
+  <h3>Frontend Development</h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="70" alt="HTML5"/>
     <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="70" alt="CSS3"/>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" alt="JavaScript"/>
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="React"/>
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="PHP"/>
-  </p>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python"/>
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" alt="MySQL"/>
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="70" alt="Tailwind"/>
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="70" alt="Bootstrap"/>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87b4-d8a9ad6b2a71.gif" width="70" alt="Figma"/>
   </p>
+
+  <h3>UI/UX Design</h3>
+  <p align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87b4-d8a9ad6b2a71.gif" width="70" alt="Figma"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70" alt="Redux"/>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="70" alt="Next.js"/>
+  </p>
+
+  <h3>Backend & Database</h3>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="PHP"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" alt="MySQL"/>
+  </p>
+  
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
@@ -86,7 +97,7 @@
         <a href="https://github.com/dannfrd/portfolio" target="_blank">
           <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" />
         </a>
-        <p align="center">Built with React & Tailwind, hosted on Vercel</p>
+        <p align="center">Modern portfolio built with React & Tailwind CSS</p>
       </td>
     </tr>
     <tr>
