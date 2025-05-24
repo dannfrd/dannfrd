@@ -95,7 +95,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/dannfrd/portfolio" target="_blank">
-          <img width="100%" src="https://www.dannfrd.my.id/" />
+          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" />
         </a>
         <p align="center">Modern portfolio built with React & Tailwind CSS</p>
       </td>
