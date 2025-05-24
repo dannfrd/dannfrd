@@ -1,11 +1,16 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Ardan+Ferdiansah;Front-End+Developer;UI+Designer;React+Specialist" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=120&section=header&text=Ardan%20Ferdiansah&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+  
   <p align="center">
-    <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <img src="https://komarev.com/ghpvc/?username=dannfrd&style=flat-square&color=0070f3" alt="Profile views"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI+Designer;React+Specialist" alt="Typing SVG" />
+  </p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=dannfrd&style=for-the-badge&color=0070f3" alt="Profile views"/>
   </p>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -28,7 +33,20 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,figma,bootstrap,tailwind,vscode&perline=6" />
+  <p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" alt="HTML5"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" alt="CSS3"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" alt="JavaScript"/></a>
+    <a href="https://reactjs.org/"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" alt="React"/></a>
+    <a href="https://www.php.net/"><img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="PHP"/></a>
+  </p>
+  <p align="center">
+    <a href="https://www.python.org/"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" alt="Python"/></a>
+    <a href="https://www.mysql.com/"><img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="70" alt="MySQL"/></a>
+    <a href="https://tailwindcss.com/"><img src="https://media.giphy.com/media/Vi5ogXQO4mzRsATl5r/giphy.gif" width="70" alt="Tailwind"/></a>
+    <a href="https://getbootstrap.com/"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" alt="Bootstrap"/></a>
+    <a href="https://www.figma.com/"><img src="https://media.giphy.com/media/Vf5ZTshRdQJaeatAlJ/giphy.gif" width="70" alt="Figma"/></a>
+  </p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNkeWRpZno2OGVvbjZ5dDFmbHg1YTZ5ZThqbTd0MTM1MWMwbGZiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="80" height="80" />
 </div>
 
@@ -38,14 +56,14 @@
 
 <div align="center">
   <a href="https://github.com/dannfrd">
-    <img height="170em" src="https://streak-stats.demolab.com?user=dannfrd&theme=prussian&hide_border=true&background=f6f8fa00" alt="GitHub Streak"/>
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   </a>
   <br>
   <a href="https://github.com/dannfrd">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dannfrd&show_icons=true&theme=prussian&hide_border=true&bg_color=f6f8fa00"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
   <a href="https://github.com/dannfrd">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=prussian&hide_border=true&bg_color=f6f8fa00"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFwaWRvYWswMjh1aHR2MjUyeTR2aDl0Nm8wbjV4dnhmM2luMm55bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqrdSW7r1DFsDZwPPw/giphy.gif" width="60" height="60" />
