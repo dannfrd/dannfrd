@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2YTFsMDlrNHk2Z3NwY2c0azl1anA5MG95N3dzM2l3cWRxcnlqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" height="180" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
 - 🎓 Informatics Student at **Politeknik Negeri Semarang**
 - 💡 Passionate about clean UI, responsive design, and web interactivity
@@ -33,21 +33,9 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" alt="HTML5"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" alt="CSS3"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" alt="JavaScript"/></a>
-    <a href="https://reactjs.org/"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" alt="React"/></a>
-    <a href="https://www.php.net/"><img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="PHP"/></a>
-  </p>
-  <p align="center">
-    <a href="https://www.python.org/"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" alt="Python"/></a>
-    <a href="https://www.mysql.com/"><img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="70" alt="MySQL"/></a>
-    <a href="https://tailwindcss.com/"><img src="https://media.giphy.com/media/Vi5ogXQO4mzRsATl5r/giphy.gif" width="70" alt="Tailwind"/></a>
-    <a href="https://getbootstrap.com/"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" alt="Bootstrap"/></a>
-    <a href="https://www.figma.com/"><img src="https://media.giphy.com/media/Vf5ZTshRdQJaeatAlJ/giphy.gif" width="70" alt="Figma"/></a>
-  </p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNkeWRpZno2OGVvbjZ5dDFmbHg1YTZ5ZThqbTd0MTM1MWMwbGZiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,figma,bootstrap,tailwind,vscode&theme=dark&perline=6" />
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
 ---
@@ -66,7 +54,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFwaWRvYWswMjh1aHR2MjUyeTR2aDl0Nm8wbjV4dnhmM2luMm55bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqrdSW7r1DFsDZwPPw/giphy.gif" width="60" height="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200" />
 </div>
 
 ---
@@ -101,7 +89,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgxeXJwOWt5ZWN5NDN1dnU1cTR6bHNhdGxuOTkyMzQ3dmRqaWs0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPeQ5Uz1smtGD5e/giphy.gif" width="80" height="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0732ef6b7.gif" width="200" />
 </div>
   </table>
 </div>
