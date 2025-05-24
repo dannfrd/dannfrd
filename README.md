@@ -7,11 +7,14 @@
     <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=dannfrd&style=flat-square&color=0070f3" alt="Profile views"/>
   </p>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2YTFsMDlrNHk2Z3NwY2c0azl1anA5MG95N3dzM2l3cWRxcnlqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 - 🎓 Informatics Student at **Politeknik Negeri Semarang**
 - 💡 Passionate about clean UI, responsive design, and web interactivity
@@ -26,6 +29,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,figma,bootstrap,tailwind,vscode&perline=6" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNkeWRpZno2OGVvbjZ5dDFmbHg1YTZ5ZThqbTd0MTM1MWMwbGZiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="80" height="80" />
 </div>
 
 ---
@@ -43,6 +47,8 @@
   <a href="https://github.com/dannfrd">
     <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=prussian&hide_border=true&bg_color=f6f8fa00"/>
   </a>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFwaWRvYWswMjh1aHR2MjUyeTR2aDl0Nm8wbjV4dnhmM2luMm55bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqrdSW7r1DFsDZwPPw/giphy.gif" width="60" height="60" />
 </div>
 
 ---
@@ -77,6 +83,7 @@
       </td>
     </tr>
   </table>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgxeXJwOWt5ZWN5NDN1dnU1cTR6bHNhdGxuOTkyMzQ3dmRqaWs0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPeQ5Uz1smtGD5e/giphy.gif" width="80" height="80" />
 </div>
   </table>
 </div>
