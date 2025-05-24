@@ -1,9 +1,12 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0CF474&height=100&section=header"/>
-  <h1>Hi, I'm Ardan Ferdiansah 👋</h1>
-  <p>Front-End Developer | Web Designer | React Enthusiast</p>
-  <img src="https://komarev.com/ghpvc/?username=dannfrd&style=flat-square&color=0CF474" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Ardan+Ferdiansah;Front-End+Developer;UI+Designer;React+Specialist" alt="Typing SVG" />
+  <p align="center">
+    <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=dannfrd&style=flat-square&color=0070f3" alt="Profile views"/>
+  </p>
 </div>
 
 ---
@@ -22,7 +25,7 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,figma,bootstrap,tailwind,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,figma,bootstrap,tailwind,vscode&perline=6" />
 </div>
 
 ---
@@ -30,23 +33,53 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=radical" alt="GitHub Streak Stats"/>
+  <a href="https://github.com/dannfrd">
+    <img height="170em" src="https://streak-stats.demolab.com?user=dannfrd&theme=prussian&hide_border=true&background=f6f8fa00" alt="GitHub Streak"/>
+  </a>
+  <br>
+  <a href="https://github.com/dannfrd">
+    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dannfrd&show_icons=true&theme=prussian&hide_border=true&bg_color=f6f8fa00"/>
+  </a>
+  <a href="https://github.com/dannfrd">
+    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=prussian&hide_border=true&bg_color=f6f8fa00"/>
+  </a>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🎯 [Room Monitoring Dashboard](https://github.com/dannfrd/room-monitoring)  
-  <sub>Real-time monitoring dashboard with ESP32 + PHP + Chart.js</sub>
-
-- 🎨 [Portfolio Website](https://www.dannfrd.my.id/)  
-  <sub>Built with React & Tailwind, hosted on Vercel</sub>
-
-- 🔐 [VulnHub Penetration Testing Reports](https://github.com/dannfrd/vulnhub-reports)  
-  <sub>Capture the Flag simulations with OSSTMM & OWASP methods</sub>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/dannfrd/room-monitoring" target="_blank">
+          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=room-monitoring&theme=react&bg_color=0D1117&hide_border=true" />
+        </a>
+        <p align="center">Real-time monitoring dashboard with ESP32 + PHP + Chart.js</p>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/dannfrd/portfolio" target="_blank">
+          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" />
+        </a>
+        <p align="center">Built with React & Tailwind, hosted on Vercel</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/dannfrd/vulnhub-reports" target="_blank">
+          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=vulnhub-reports&theme=react&bg_color=0D1117&hide_border=true" />
+        </a>
+        <p align="center">Capture the Flag simulations with OSSTMM & OWASP methods</p>
+      </td>
+      <td width="50%" align="center">
+        <!-- Reserved for future project -->
+      </td>
+    </tr>
+  </table>
+</div>
+  </table>
+</div>
 
 ---
 
@@ -63,5 +96,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0CF474&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=100&section=footer"/>
 </div>
