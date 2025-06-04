@@ -88,24 +88,24 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/dannfrd/room-monitoring" target="_blank">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=room-monitoring&theme=react&bg_color=0D1117&hide_border=true" />
+        <a href="https://gitlab.com/KidiXDev/sipadu.git" target="_blank">
+          <img width="100%" src="project.png" />
         </a>
-        <p align="center">Real-time monitoring dashboard with ESP32 + PHP + Chart.js</p>
+        <p align="center">My first mobile application for streamlining faculty attendance tracking.</p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/dannfrd/portfolio" target="_blank">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" />
+        <a href="https://www.kybgroup.biz.id/" target="_blank">
+          <img width="100%" src="project2.png" />
         </a>
-        <p align="center">Modern portfolio built with React & Tailwind CSS</p>
+        <p align="center">A porto web organization for Karang Taruna, a youth community in Indonesia.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/dannfrd/vulnhub-reports" target="_blank">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=vulnhub-reports&theme=react&bg_color=0D1117&hide_border=true" />
+        <a href="https://github.com/dannfrd/todo-app-simple" target="_blank">
+          <img width="100%" src="project3.png" />
         </a>
-        <p align="center">Capture the Flag simulations with OSSTMM & OWASP methods</p>
+        <p align="center">A simple app to record and manage daily tasks using React and LocalStorage.</p>
       </td>
       <td width="50%" align="center">
         <!-- Reserved for future project -->
