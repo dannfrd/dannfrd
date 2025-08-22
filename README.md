@@ -34,7 +34,13 @@
 
 ## About Me
 
-```js
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');+//+I'm+Ardan;import+{+Experience+}+from+'web-development';;const+FRONTEND+=+%5B'React',+'TypeScript',+'Tailwind'%5D;" alt="Typing SVG" />
+</div>
+
+<br>
+
+```javascript
 class Developer {
   constructor() {
     this.name = "Ardan Ferdiansah";
@@ -92,33 +98,13 @@ ardan.sayHi();
 
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="50"/> Currently Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,graphql,docker,kubernetes,aws&theme=dark&perline=6" alt="Learning Technologies"/>
-</p>
 
-<!-- Dynamic Progress Bars -->
-<div align="center">
-  <h4><img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1c6-5df5c1f5f3f6.gif" width="25"/> Skill Proficiency</h4>
-  
-  **Frontend Development** 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
-  
-  <br/>
-  
-  **Currently Mastering**
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=React+%26+TypeScript+%E2%9A%A1;Next.js+%26+Server+Components+%F0%9F%9A%80;Tailwind+CSS+%26+Design+Systems+%F0%9F%8E%A8;Node.js+%26+API+Development+%F0%9F%94%A7;GraphQL+%26+Modern+Databases+%F0%9F%97%84%EF%B8%8F" alt="Learning Progress"/>
-</div>
 
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Journey&titleAlign=center&fontSize=20&align=center&lineCount=3&theme=github_dark&line1=Frontend:+React,TypeScript,Tailwind,Next.js;&line2=Tools:+Git,Figma,VS+Code,Vercel;&line3=Learning:+Node.js,GraphQL,Docker,AWS;" alt="Tech Stack Card"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=radical&hide_border=true&background=0D1117" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600"/>
+<br>
 
 </div>
 
