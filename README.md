@@ -1,50 +1,37 @@
-<!-- Header -->
+<!-- Modern Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=120&section=header&text=Ardan%20Ferdiansah&fontSize=30&fontColor=ffffff&## 🌐 Let's Connect
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ardan%20Ferdiansah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=55"/>
   
-<h3>📫 Get in Touch</h3>
-
-<p align="center">
-  <a href="mailto:ardanferdiansah03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/dannfrd">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/dannfrd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/dannfrd">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<div align="center">
-  <h4>💬 "Always open to interesting conversations and collaboration opportunities!"</h4>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
-</div>
-
-</div>n=fadeIn&fontAlignY=30"/>
+  <!-- Animated Typing Effect -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Frontend+Developer;🎨+UI%2FUX+Designer;⚛️+React+Specialist;🌟+Open+Source+Contributor" alt="Animated Typing"/>
+  </div>
   
+  <!-- Social Links with Hover Effects -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Designer;React+Specialist" alt="Typing SVG" />
+    <a href="https://linkedin.com/in/dannfrd" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/dannfrd" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    </a>
+    <a href="mailto:ardanferdiansah03@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+    </a>
+    <a href="https://instagram.com/dannfrd" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    </a>
   </p>
   
+  <!-- Profile Statistics -->
   <p align="center">
-    <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/dannfrd"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=dannfrd&style=for-the-badge&color=6366f1&abbreviated=true" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/dannfrd?style=for-the-badge&color=6366f1&labelColor=1e1e2e" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/dannfrd?style=for-the-badge&color=6366f1&labelColor=1e1e2e" alt="Stars"/>
   </p>
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dannfrd&style=for-the-badge&color=0070f3" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/dannfrd?style=for-the-badge&color=0070f3" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/dannfrd?style=for-the-badge&color=0070f3" alt="GitHub stars"/>
-  </p>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 ---
@@ -63,172 +50,388 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
-- 🎓 Informatics Student at **Politeknik Negeri Semarang**
-- 💻 Front-End Developer focusing on **React** ecosystem and modern JavaScript
-- 🎨 UI Designer with expertise in **clean, responsive designs**
-- 🔄 Experience with RESTful APIs integration and state management
-- 🌱 Currently exploring **React Native** for mobile & **NextJS** for server-side rendering
-- 🧠 Passionate about component-driven development and micro-frontend architecture
-- ⚡ Active contributor to open-source projects
-- 🧩 Fun fact: I debug better when drinking coffee ☕️
-
-### 🎯 Current Focus
-- 🚀 Building scalable React applications
-- 📱 Exploring mobile development with React Native
-- 🎨 Mastering advanced CSS animations and micro-interactions
-- 🔧 Learning backend technologies to become full-stack
-
----
-
-## 🧰 Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
 
 <div align="center">
-  
-### Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Technologies"/>
-</p>
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        
+### 👨‍💻 Professional Journey
+        
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="25"/> **Student Developer** at **Politeknik Negeri Semarang**
 
-### Tools & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,netlify&theme=dark" alt="Tools & Design"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/235224439-b4b3be82-ef98-4e66-9eac-33d6a4aaabe1.gif" width="25"/> **Frontend Specialist** focusing on **React** ecosystem
 
-### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,mysql,nodejs,express&theme=dark" alt="Backend Technologies"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/235224443-8c17c4e2-9e4e-461b-a65b-c4b0a8e3d9b5.gif" width="25"/> **UI/UX Designer** with expertise in **clean, responsive designs**
 
-### Currently Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,graphql,docker&theme=dark" alt="Learning Technologies"/>
-</p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/235224456-6c4c9b8c-7b9a-4b9c-9f88-2b8a1c7c7c7c.gif" width="25"/> **API Integration** specialist with RESTful services
+
+<img src="https://user-images.githubusercontent.com/74038190/235224462-d4b5e7b7-8c4e-4b8b-8e8b-8b8b8b8b8b8b.gif" width="25"/> **Open Source** contributor and community member
+
+### ☕ Fun Facts
+- 🧩 I debug better when drinking coffee
+- 🎮 Gaming enthusiast in free time
+- 📚 Always learning new technologies
+- 🌟 Love clean, minimalist design
+        
+      </td>
+      <td width="50%" valign="top">
+        
+### 🎯 Current Focus & Goals
+        
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+
+**🚀 Building scalable React applications**
+> Focusing on component-driven development
+
+**📱 Exploring React Native development**
+> Cross-platform mobile solutions
+
+**🎨 Mastering CSS animations & micro-interactions**
+> Creating delightful user experiences
+
+**🔧 Learning backend technologies**
+> Journey to become full-stack developer
+
+**🌱 Currently Learning:**
+- NextJS for server-side rendering
+- GraphQL for efficient data fetching
+- Docker for containerization
+- React Native for mobile development
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600"/>
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/> Tech Stack
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dannfrd&bg_color=0D1117&color=0070f3&line=0070f3&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/> Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend Technologies"/>
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40"/> Tools & Design  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,netlify&theme=dark&perline=6" alt="Tools & Design"/>
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"/> Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,mysql,nodejs,express,mongodb&theme=dark&perline=6" alt="Backend Technologies"/>
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="40"/> Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,graphql,docker,kubernetes,aws&theme=dark&perline=6" alt="Learning Technologies"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Journey&titleAlign=center&fontSize=20&align=center&lineCount=3&theme=github_dark&line1=Frontend:+React,TypeScript,Tailwind,Next.js;&line2=Tools:+Git,Figma,VS+Code,Vercel;&line3=Learning:+Node.js,GraphQL,Docker,AWS;" alt="Tech Stack Card"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600"/>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50"/> GitHub Analytics
+
+<div align="center">
   
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0070f3&icon_color=0070f3"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0070f3"/>
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dannfrd&custom_title=Ardan's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=6366f1&line=6366f1&point=f8fafc&area=true&hide_border=true&area_color=6366f1" alt="GitHub Activity Graph"/>
+  
+  <br/><br/>
+  
+  <!-- Stats Cards Row 1 -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9"/>
   </div>
   
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=tokyonight&hide_border=true&background=0D1117&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakLabel=0070f3" alt="GitHub Streak"/>
+  <br/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200" />
+  <!-- Streak Stats -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=dannfrd&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=c9d1d9&currStreakNum=f8fafc&dates=8b949e" alt="GitHub Streak"/>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dannfrd&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9" alt="WakaTime Stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  </div>
+  
+  <br/>
+  
+  <!-- Animated Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/dannfrd/dannfrd/output/snake.svg" alt="Snake animation" />
+  
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="300"/>
+  
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/> Featured Projects
 
 <div align="center">
-  
-### 📱 Mobile & Web Applications
 
-<table border="0" cellspacing="0" cellpadding="15">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://gitlab.com/KidiXDev/sipadu.git" target="_blank">
-        <img width="100%" src="project.png" style="border-radius: 10px;"/>
-      </a>
-      <h3>📚 SIPADU - Attendance System</h3>
-      <p><em>Mobile application for streamlining faculty attendance tracking</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.kybgroup.biz.id/" target="_blank">
-        <img width="100%" src="project2.png" style="border-radius: 10px;"/>
-      </a>
-      <h3>🌐 KYB Group Portfolio</h3>
-      <p><em>Professional website for Karang Taruna youth community</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/dannfrd/todo-app-simple" target="_blank">
-        <img width="100%" src="project3.png" style="border-radius: 10px;"/>
-      </a>
-      <h3>✅ Smart Todo App</h3>
-      <p><em>Intuitive task management with React and LocalStorage</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <div style="padding: 40px;">
-        <h3>🚧 Coming Soon...</h3>
-        <p><em>Working on something amazing!</em></p>
-        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0732ef6b7.gif" width="200" />
-
-</div>
-
----
-
-## � Achievements & Certifications
-
-<div align="center">
-  
+<!-- Projects Grid -->
 <table>
   <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50"/>
-      <br><strong>Student Developer</strong>
-      <br><em>Politeknik Negeri Semarang</em>
+    <td width="50%" valign="top">
+      
+<!-- Project 1: SIPADU -->
+<div align="center">
+  <a href="https://gitlab.com/KidiXDev/sipadu.git" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=sipadu&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1" alt="SIPADU Repository"/>
+  </a>
+  
+  <br/>
+  
+  <img width="100%" src="project.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> SIPADU - Attendance System</h3>
+  
+  <p align="center"><em>📱 Mobile application for streamlining faculty attendance tracking with modern UI/UX</em></p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  </div>
+  
+  <div align="center">
+    <a href="https://gitlab.com/KidiXDev/sipadu.git" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-6366f1?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235224439-b4b3be82-ef98-4e66-9eac-33d6a4aaabe1.gif" width="50"/>
-      <br><strong>Frontend Specialist</strong>
-      <br><em>React & Modern JavaScript</em>
+    <td width="50%" valign="top">
+      
+<!-- Project 2: KYB Group -->
+<div align="center">
+  <a href="https://www.kybgroup.biz.id/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=kyb-group&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1" alt="KYB Group Repository"/>
+  </a>
+  
+  <br/>
+  
+  <img width="100%" src="project2.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"/> KYB Group Portfolio</h3>
+  
+  <p align="center"><em>🌐 Professional website for Karang Taruna youth community with responsive design</em></p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </div>
+  
+  <div align="center">
+    <a href="https://www.kybgroup.biz.id/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235224443-8c17c4e2-9e4e-461b-a65b-c4b0a8e3d9b5.gif" width="50"/>
-      <br><strong>UI/UX Designer</strong>
-      <br><em>Figma & Design Systems</em>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      
+<!-- Project 3: Todo App -->
+<div align="center">
+  <a href="https://github.com/dannfrd/todo-app-simple" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannfrd&repo=todo-app-simple&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1" alt="Todo App Repository"/>
+  </a>
+  
+  <br/>
+  
+  <img width="100%" src="project3.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1c6-5df5c1f5f3f6.gif" width="30"/> Smart Todo App</h3>
+  
+  <p align="center"><em>✅ Intuitive task management application with React and LocalStorage persistence</em></p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </div>
+  
+  <div align="center">
+    <a href="https://github.com/dannfrd/todo-app-simple" target="_blank">
+      <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
+    </td>
+    <td width="50%" valign="top">
+      
+<!-- Coming Soon Project -->
+<div align="center" style="padding: 40px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
+  
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/> Coming Soon...</h3>
+  
+  <p align="center"><em>🚧 Working on something amazing!<br/>Stay tuned for exciting updates</em></p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=rocket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </div>
+</div>
+
     </td>
   </tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0732ef6b7.gif" width="300"/>
+</div>
+
 </div>
 
 ---
 
-## �🌐 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"/> Achievements & Milestones
 
 <div align="center">
-  <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/dannfrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<table border="0">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80"/>
+      <h4><strong>🎓 Student Developer</strong></h4>
+      <p><em>Politeknik Negeri Semarang</em><br/>
+      <img src="https://img.shields.io/badge/Informatics-2023--Present-6366f1?style=for-the-badge"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/235224439-b4b3be82-ef98-4e66-9eac-33d6a4aaabe1.gif" width="80"/>
+      <h4><strong>⚛️ Frontend Specialist</strong></h4>
+      <p><em>React & Modern JavaScript</em><br/>
+      <img src="https://img.shields.io/badge/Experience-2%2B_Years-6366f1?style=for-the-badge"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/235224443-8c17c4e2-9e4e-461b-a65b-c4b0a8e3d9b5.gif" width="80"/>
+      <h4><strong>🎨 UI/UX Designer</strong></h4>
+      <p><em>Figma & Design Systems</em><br/>
+      <img src="https://img.shields.io/badge/Projects-10%2B_Completed-6366f1?style=for-the-badge"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Achievement Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆_Open_Source-Contributor-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_React-Specialist-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📱_Mobile-Developer-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Problem-Solver-6366f1?style=for-the-badge"/>
+</div>
+
 </div>
 
 ---
 
-<!-- Footer -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/> Let's Connect & Collaborate
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=100&section=footer"/>
+
+<h3>💬 "Always open to interesting conversations and collaboration opportunities!"</h3>
+
+<div align="center">
+  <a href="mailto:ardanferdiansah03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+  </a>
+  <a href="https://linkedin.com/in/dannfrd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
+  </a>
+  <a href="https://github.com/dannfrd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
+  </a>
+  <a href="https://instagram.com/dannfrd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Contact Info -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"/>
+        <br/><strong>Email</strong>
+        <br/>ardanferdiansah03@gmail.com
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30"/>
+        <br/><strong>Location</strong>
+        <br/>Semarang, Indonesia
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="30"/>
+        <br/><strong>Status</strong>
+        <br/>Available for opportunities
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+</div>
+
+---
+
+<!-- Modern Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+  
+  <br/>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dannfrd&style=for-the-badge&color=6366f1&abbreviated=true" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/last-commit/dannfrd/dannfrd?style=for-the-badge&color=6366f1" alt="Last Updated"/>
+  </p>
+  
+  <p align="center">
+    <strong>⭐ Don't forget to star my repositories if you find them useful!</strong>
+  </p>
+  
+  <p align="center">
+    Made with ❤️ by <a href="https://github.com/dannfrd">Ardan Ferdiansah</a>
+  </p>
+  
 </div>
