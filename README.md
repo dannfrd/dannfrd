@@ -1,11 +1,37 @@
-<!-- Modern Animated Header -->
+<!-- Ultra Modern Animated Header with Floating Elements -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ardan%20Ferdiansah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=55"/>
   
-  <!-- Animated Typing Effect -->
-  <div align="center" style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Frontend+Developer;🎨+UI%2FUX+Designer;⚛️+React+Specialist;🌟+Open+Source+Contributor" alt="Animated Typing"/>
+  <!-- Floating Icons Animation -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5aa6.gif" width="50" style="margin: 0 20px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="50" style="margin: 0 20px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213911157-8309b58f-88e2-4713-8c4f-9b6d09aaa6aa.gif" width="50" style="margin: 0 20px;"/>
   </div>
+  
+  <br/>
+  
+  <!-- Dynamic Header with Enhanced Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,12,4&height=200&section=header&text=Ardan%20Ferdiansah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=🚀%20Frontend%20Developer%20%7C%20🎨%20UI/UX%20Designer%20%7C%20⚡%20Code%20Wizard&descSize=18&descAlignY=60"/>
+  
+  <!-- Spectacular Animated Typing Effect -->
+  <div align="center" style="margin: 30px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Crafting+Digital+Experiences;🎨+Designing+Beautiful+Interfaces;⚛️+Building+with+React+%26+TypeScript;🌟+Contributing+to+Open+Source;💡+Always+Learning+%26+Growing;🔥+Passionate+Code+Architect" alt="Spectacular Typing Animation"/>
+  </div>
+  
+  <!-- Rotating Tech Icons -->
+  <div align="center">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="animation: rotation 2s infinite linear;"/>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="animation: rotation 2s infinite linear reverse;"/>
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="animation: rotation 2s infinite linear;"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="animation: rotation 2s infinite linear reverse;"/>
+  </div>
+  
+  <style>
+    @keyframes rotation {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(359deg); }
+    }
+  </style>
   
   <!-- Social Links with Hover Effects -->
   <p align="center">
@@ -52,28 +78,41 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
 
+<!-- Floating Elements Around About Me -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" align="left"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" align="right"/>
+</div>
+
+<br/>
+
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" valign="top">
         
-### 👨‍💻 Professional Journey
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> Professional Journey
         
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="25"/> **Student Developer** at **Politeknik Negeri Semarang**
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"/> **Student Developer** at **Politeknik Negeri Semarang**
+> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1c6-5df5c1f5f3f6.gif" width="20"/> Building the future with code
 
-<img src="https://user-images.githubusercontent.com/74038190/235224439-b4b3be82-ef98-4e66-9eac-33d6a4aaabe1.gif" width="25"/> **Frontend Specialist** focusing on **React** ecosystem
+<img src="https://user-images.githubusercontent.com/74038190/235224439-b4b3be82-ef98-4e66-9eac-33d6a4aaabe1.gif" width="30"/> **Frontend Specialist** focusing on **React** ecosystem
+> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"/> Crafting interactive experiences
 
-<img src="https://user-images.githubusercontent.com/74038190/235224443-8c17c4e2-9e4e-461b-a65b-c4b0a8e3d9b5.gif" width="25"/> **UI/UX Designer** with expertise in **clean, responsive designs**
+<img src="https://user-images.githubusercontent.com/74038190/235224443-8c17c4e2-9e4e-461b-a65b-c4b0a8e3d9b5.gif" width="30"/> **UI/UX Designer** with expertise in **clean, responsive designs**
+> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20"/> Designing with passion
 
-<img src="https://user-images.githubusercontent.com/74038190/235224456-6c4c9b8c-7b9a-4b9c-9f88-2b8a1c7c7c7c.gif" width="25"/> **API Integration** specialist with RESTful services
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/> **API Integration** specialist with RESTful services
+> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20"/> Connecting digital worlds
 
-<img src="https://user-images.githubusercontent.com/74038190/235224462-d4b5e7b7-8c4e-4b8b-8e8b-8b8b8b8b8b8b.gif" width="25"/> **Open Source** contributor and community member
+<img src="https://user-images.githubusercontent.com/74038190/235224462-d4b5e7b7-8c4e-4b8b-8e8b-8b8b8b8b8b8b.gif" width="30"/> **Open Source** contributor and community member
+> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20"/> Sharing knowledge globally
 
-### ☕ Fun Facts
-- 🧩 I debug better when drinking coffee
-- 🎮 Gaming enthusiast in free time
-- 📚 Always learning new technologies
-- 🌟 Love clean, minimalist design
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/> Fun Facts
+- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="20"/> I debug better when drinking coffee
+- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5aa6.gif" width="20"/> Gaming enthusiast in free time  
+- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="20"/> Always learning new technologies
+- <img src="https://user-images.githubusercontent.com/74038190/213911157-8309b58f-88e2-4713-8c4f-9b6d09aaa6aa.gif" width="20"/> Love clean, minimalist design
         
       </td>
       <td width="50%" valign="top">
@@ -113,27 +152,66 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/> Tech Stack
 
+<!-- Animated Tech Stack Header -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"/>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"/> My Arsenal of Technologies</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"/>
+</div>
+
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/> Frontend Development
+<!-- Floating Tech Icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" align="left"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40" align="right"/>
+</div>
+
+<br/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/> Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend Technologies"/>
 </p>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40"/> Tools & Design  
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50"/> Tools & Design  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,netlify&theme=dark&perline=6" alt="Tools & Design"/>
 </p>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"/> Backend & Database
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/> Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,mysql,nodejs,express,mongodb&theme=dark&perline=6" alt="Backend Technologies"/>
 </p>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="40"/> Currently Learning
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="50"/> Currently Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,graphql,docker,kubernetes,aws&theme=dark&perline=6" alt="Learning Technologies"/>
 </p>
+
+<!-- Dynamic Progress Bars -->
+<div align="center">
+  <h4><img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1c6-5df5c1f5f3f6.gif" width="25"/> Skill Proficiency</h4>
+  
+  **Frontend Development** 
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
+  
+  <br/>
+  
+  **Currently Mastering**
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=React+%26+TypeScript+%E2%9A%A1;Next.js+%26+Server+Components+%F0%9F%9A%80;Tailwind+CSS+%26+Design+Systems+%F0%9F%8E%A8;Node.js+%26+API+Development+%F0%9F%94%A7;GraphQL+%26+Modern+Databases+%F0%9F%97%84%EF%B8%8F" alt="Learning Progress"/>
+</div>
 
 <br/>
 
@@ -149,10 +227,29 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50"/> GitHub Analytics
 
+<!-- Spectacular GitHub Analytics Header -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120"/>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"/> Code Statistics & Achievements</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120"/>
+</div>
+
+<div align="center">
+
+<!-- Floating Analytics Icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="left"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1c6-5df5c1f5f3f6.gif" width="50"/>  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" align="right"/>
+</div>
+
+<br/>
   
-  <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dannfrd&custom_title=Ardan's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=6366f1&line=6366f1&point=f8fafc&area=true&hide_border=true&area_color=6366f1" alt="GitHub Activity Graph"/>
+  <!-- Enhanced Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dannfrd&custom_title=🚀%20Ardan's%20Coding%20Journey%20%26%20Contributions&bg_color=1a1b27&color=6366f1&line=6366f1&point=f8fafc&area=true&hide_border=true&area_color=6366f1" alt="GitHub Activity Graph"/>
+  
+  <!-- Animated Typing Stats -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=💻+Lines+of+Code%3A+Countless+hours+of+dedication;🔥+Commits%3A+Building+the+future+one+commit+at+a+time;⭐+Stars%3A+Creating+projects+that+inspire+others;🌟+Contributions%3A+Making+open+source+better+every+day" alt="Coding Stats Animation"/>
   
   <br/><br/>
   
@@ -190,7 +287,23 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/> Featured Projects
 
+<!-- Dynamic Projects Header -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"/>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"/> My Creative Showcase</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=500&lines=🚀+Building+Amazing+Digital+Experiences;💡+Turning+Ideas+Into+Reality;🎨+Crafting+Beautiful+User+Interfaces;⚡+Performance+%26+User+Experience+First" alt="Projects Motto"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"/>
+</div>
+
+<div align="center">
+
+<!-- Floating Project Icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" align="left"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40" align="right"/>
+</div>
+
+<br/>
 
 <!-- Projects Grid -->
 <table>
@@ -363,9 +476,25 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/> Let's Connect & Collaborate
 
+<!-- Spectacular Connection Header -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120"/>
+</div>
+
 <div align="center">
 
-<h3>💬 "Always open to interesting conversations and collaboration opportunities!"</h3>
+<!-- Animated Connection Message -->
+<h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=💬+Always+open+to+interesting+conversations!;🤝+Let's+collaborate+on+amazing+projects!;🚀+Ready+to+build+the+future+together!;💡+Great+ideas+start+with+great+connections!" alt="Connection Message"/></h3>
+
+<!-- Floating Communication Icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="left"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" align="right"/>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="mailto:ardanferdiansah03@gmail.com" target="_blank">
@@ -415,23 +544,59 @@
 
 ---
 
-<!-- Modern Footer -->
+<!-- Ultra Spectacular Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+  
+  <!-- Floating Elements Before Footer -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150"/>
+  </div>
+  
+  <!-- Thank You Message -->
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing+together!+💫;Keep+coding+and+stay+awesome!+⚡;Connect+with+me+for+collaborations!+🌟" alt="Thank You Message"/>
+  </div>
   
   <br/>
   
+  <!-- Dynamic Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,12,4&height=150&section=footer&animation=twinkling&text=Thank%20You!&fontSize=30&fontColor=ffffff&fontAlignY=70"/>
+  
+  <!-- Floating Icons Row -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5aa6.gif" width="40" style="margin: 0 15px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="40" style="margin: 0 15px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213911157-8309b58f-88e2-4713-8c4f-9b6d09aaa6aa.gif" width="40" style="margin: 0 15px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" style="margin: 0 15px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40" style="margin: 0 15px;"/>
+  </div>
+  
+  <!-- Enhanced Stats -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dannfrd&style=for-the-badge&color=6366f1&abbreviated=true" alt="Profile Views"/>
     <img src="https://img.shields.io/github/last-commit/dannfrd/dannfrd?style=for-the-badge&color=6366f1" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Always%20Learning-🚀-6366f1?style=for-the-badge" alt="Always Learning"/>
   </p>
   
-  <p align="center">
-    <strong>⭐ Don't forget to star my repositories if you find them useful!</strong>
-  </p>
+  <!-- Interactive Call to Action -->
+  <div align="center">
+    <h3><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/> ⭐ Don't forget to star my repositories if you find them useful! ⭐</h3>
+  </div>
   
-  <p align="center">
-    Made with ❤️ by <a href="https://github.com/dannfrd">Ardan Ferdiansah</a>
-  </p>
+  <!-- Signature with Animation -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300"/>
+    <p align="center">
+      <strong>Made with <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> and lots of ☕ by <a href="https://github.com/dannfrd">Ardan Ferdiansah</a></strong>
+    </p>
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300"/>
+  </div>
+  
+  <!-- Final Animated Elements -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="400"/>
+  </div>
   
 </div>
