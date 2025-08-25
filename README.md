@@ -1,9 +1,3 @@
-<!-- 
-  🌌 Ardan Ferdiansah (dannfrd)
-  🚀 Modern & Clean GitHub Profile README
-  ✨ Tanpa HTML/CSS — Hanya Markdown + Animasi Eksternal
--->
-
 <div align="center">
   
   <!-- 🖼️ Profile Picture with Animation -->
@@ -54,56 +48,53 @@ const dannfrd = {
   superpower: "Turning coffee into code ☕",
   vibe: "Lo-fi beats & synthwave 🎧"
 };
-🛠️ Tech Stack
-Core
-React
+```
 
-Next.js
+## 🛠️ Tech Stack
 
-TypeScript
+### Core
+- **React** ⚛️
+- **Next.js** ⚡
+- **TypeScript** 🔷
+- **Tailwind CSS** 🎨
 
-Tailwind CSS
-
-Design & Tools
-Figma
-
-VS Code
-
-Git
+### Design & Tools
+- **Figma** 🎭
+- **VS Code** 💻
+- **Git** 📝
 
 <!-- 🎨 Skill Icons -->
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github,vercel" />
 </p>
 
-🎨 Featured Projects
-🌟 HUEHUY — Voucher & Promo Platform
-QR-based vouchers, WhatsApp OTP, Laravel + Next.js
-🔧 Tech: React, Next.js, Laravel, PostgreSQL 
+## 🎨 Featured Projects
 
-📱 SIPADU — Mobile Attendance
-Offline-first React Native app for faculty attendance
-📱 Tech: React Native, Expo, TypeScript 
+### 🌟 HUEHUY — Voucher & Promo Platform
+QR-based vouchers, WhatsApp OTP, Laravel + Next.js  
+🔧 **Tech:** React, Next.js, Laravel, PostgreSQL
 
-🎭 KYB Group — Portfolio
-Community showcase with clean design
-🎨 Tech: React, Tailwind, Vercel 
+### 📱 SIPADU — Mobile Attendance
+Offline-first React Native app for faculty attendance  
+📱 **Tech:** React Native, Expo, TypeScript
 
-✅ Todo App (Simple)
-Tiny, accessible, keyboard-friendly
-💾 Tech: React, LocalStorage 
+### 🎭 KYB Group — Portfolio
+Community showcase with clean design  
+🎨 **Tech:** React, Tailwind, Vercel
 
-🎯 My Principles
-Design Systems
-Semantics first, then the glitter ✨
-Performance
-Measure CLS, LCP, TTI 📊
-Accessibility
-Keyboard works or it doesn’t ship ⌨️
-Clean Code
-Understandable > clever 🧠
+### ✅ Todo App (Simple)
+Tiny, accessible, keyboard-friendly  
+💾 **Tech:** React, LocalStorage
 
-📊 GitHub Stats
+## 🎯 My Principles
+
+- **Design Systems** - Semantics first, then the glitter ✨
+- **Performance** - Measure CLS, LCP, TTI 📊
+- **Accessibility** - Keyboard works or it doesn't ship ⌨️
+- **Clean Code** - Understandable > clever 🧠
+
+## 📊 GitHub Stats
+
 <div align="center">
 
 <!-- GitHub Stats -->
@@ -118,7 +109,9 @@ Understandable > clever 🧠
 
 </div>
 
-🎭 About Me
+## 🎭 About Me
+
+```js
 class Developer {
   constructor() {
     this.name = 'Ardan Ferdiansah';
@@ -134,10 +127,13 @@ class Developer {
 }
 
 console.log(new Developer().sayHello());
-🎵 Coding to: Lo-fi beats & synthwave
-☕ Powered by coffee, creativity, and curiosity.
+```
 
-📞 Let's Connect!
+🎵 **Coding to:** Lo-fi beats & synthwave  
+☕ **Powered by:** coffee, creativity, and curiosity.
+
+## 📞 Let's Connect!
+
 I'm always open to discussing new projects, tech, or collabs!
 
 <p align="center">
