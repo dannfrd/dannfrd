@@ -1,129 +1,217 @@
 <!--
-  Fresh README for: Ardan Ferdiansah (aka dannfrd)
-  Style: clean, fast-loading, minimal animations, neon accent (#6C5CE7)
-  Tip: keep image count low to reduce layout shift and request overhead.
+  🚀 Modern README for: Ardan Ferdiansah (aka dannfrd)
+  ✨ Style: gradient backgrounds, modern cards, smooth animations, vibrant colors
+  🎨 Theme: Cyberpunk meets Minimalism with neon accents
 -->
 
-<p align="center">
-  <img alt="OpBento" width="960" src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fdannfrd857b4.png?alt=media" />
-</p>
+<div align="center">
+  
+  <!-- Hero Section with Gradient Background -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 20px; margin-bottom: 30px;">
+    <img alt="Ardan Ferdiansah" width="200" height="200" src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fdannfrd857b4.png?alt=media" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+    
+    <h1 style="color: white; font-size: 3rem; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      🚀 Ardan Ferdiansah
+    </h1>
+    
+    <p style="color: white; font-size: 1.2rem; margin: 10px 0; opacity: 0.9;">
+      <strong>Frontend Developer</strong> • <strong>UI/UX Designer</strong> • <strong>Creative Coder</strong>
+    </p>
+    
+    <p style="color: white; font-size: 1rem; margin: 15px 0; opacity: 0.8;">
+      Crafting digital experiences with React • Next.js • TypeScript
+    </p>
+  </div>
 
-<h1 align="center">Ardan Ferdiansah</h1>
-<p align="center">
-  Frontend Developer · UI/UX Designer · <strong>React</strong> • <strong>Next.js</strong> • <strong>TypeScript</strong>
-</p>
+  <!-- Social Links with Modern Badges -->
+  <div style="margin: 30px 0;">
+    <a href="https://dannfrd.tech" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/🌐-Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://linkedin.com/in/dannfrd" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ardanferdiansah03@gmail.com" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/dannfrd" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
 
-<p align="center">
-  <a href="https://dannfrd.tech">Website</a>
-  · <a href="https://linkedin.com/in/dannfrd">LinkedIn</a>
-  · <a href="mailto:ardanferdiansah03@gmail.com">Email</a>
-  · <a href="https://github.com/dannfrd">GitHub</a>
-</p>
+</div>
 
 ---
 
-### TL;DR
+## 🎯 **What I Do**
 
-High‑quality frontends with a design‑first mindset. I like robust architecture, delightful interactions, and measurable performance.
+<div align="center">
+  <p style="font-size: 1.1rem; color: #6366f1; font-weight: 600;">
+    I transform ideas into <strong>beautiful, functional, and performant</strong> web experiences
+  </p>
+</div>
 
-```text
-Currently: building modern web interfaces, experimenting with mobile (React Native), and refining design systems.
-Stack: React · Next.js · TS · Tailwind · Figma · Vercel
+```typescript
+const myMission = {
+  passion: "Building delightful user interfaces",
+  focus: "Performance, accessibility, and user experience",
+  approach: "Design-first development with clean code",
+  current: "Exploring React Native & Mobile Development"
+};
 ```
 
 ---
 
-### Toolbox
+## 🛠️ **Tech Stack & Tools**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github,vercel" />
-</p>
-
-<!-- Optional: typing header (kept subtle) -->
-
-<p align="center">
-  <a href="https://github.com/dannfrd">
-    <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=6C5CE7&center=true&vCenter=true&width=520&lines=console.log('Hello+World!');I+build+delightful+web+interfaces;React·Next.js·TypeScript;Design+systems+%2B+performance" />
-  </a>
-</p>
+<div align="center">
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <h3 style="color: white; margin: 0 0 15px 0;">🚀 Core Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github,vercel" />
+  </div>
+</div>
 
 ---
 
-### Featured Work
+## 🎨 **Featured Projects**
 
-> A few things I’m not embarrassed to show to humans.
+<div align="center">
+  <p style="font-size: 1.1rem; color: #8b5cf6; font-weight: 600; margin-bottom: 25px;">
+    ✨ Some of my best work that I'm proud to share ✨
+  </p>
+</div>
 
-* **HUEHUY — Voucher & Promo Platform**
-  Frontend in Next.js/React, backend in Laravel/PostgreSQL. QR‑based voucher flow, OTP via WhatsApp, community dashboards. <sub>Focus: information architecture, polished UX, and safe state transitions.</sub>
+### 🌟 **HUEHUY — Voucher & Promo Platform**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 15px 0;">
+  <p><strong>Tech Stack:</strong> Next.js/React + Laravel/PostgreSQL</p>
+  <p><strong>Features:</strong> QR-based voucher system, WhatsApp OTP, community dashboards</p>
+  <p><strong>Focus:</strong> Information architecture, polished UX, safe state transitions</p>
+</div>
 
-* **SIPADU — Attendance System (Mobile)**
-  React Native + TypeScript + Expo. Modern UI for faculty attendance tracking. <sub>Focus: offline‑first mindset, predictable state, clean navigation.</sub>
+### 📱 **SIPADU — Attendance System (Mobile)**
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; margin: 15px 0;">
+  <p><strong>Tech Stack:</strong> React Native + TypeScript + Expo</p>
+  <p><strong>Features:</strong> Modern UI for faculty attendance tracking</p>
+  <p><strong>Focus:</strong> Offline-first mindset, predictable state, clean navigation</p>
+</div>
 
-* **KYB Group — Community Portfolio**
-  React + Tailwind, deployed on Vercel. <sub>Focus: identity, content strategy, responsive design tokens.</sub>
+### 🎭 **KYB Group — Community Portfolio**
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; margin: 15px 0;">
+  <p><strong>Tech Stack:</strong> React + Tailwind + Vercel</p>
+  <p><strong>Features:</strong> Community portfolio showcase</p>
+  <p><strong>Focus:</strong> Identity, content strategy, responsive design tokens</p>
+</div>
 
-* **Todo App (Simple but not silly)**
-  React + LocalStorage with tiny utilities and accessible keyboard flow.
-  Repo: [https://github.com/dannfrd/todo-app-simple](https://github.com/dannfrd/todo-app-simple)
-
-> Want a full list? Check **Pinned** repos below or the Projects tab.
-
----
-
-### Principles I keep breaking and then fixing
-
-* Design systems over one‑off styling. Semantics first, then the glitter.
-* Predictable state: understandable data flows beat clever hacks.
-* Measure everything: CLS, LCP, TTI matter more than vibes.
-* Accessibility earns you real users. Keyboard works or it doesn’t ship.
-
----
-
-### Stats (lightweight)
-
-<p align="center">
-  <img alt="streak" src="https://streak-stats.demolab.com?user=dannfrd&theme=github-dark-blue&hide_border=true" />
-</p>
-<p align="center">
-  <img alt="visits" src="https://komarev.com/ghpvc/?username=dannfrd&label=Profile%20visits&color=6C5CE7&style=for-the-badge" />
-</p>
-
-<!-- Optional: language chart (can be noisy). Uncomment if needed. -->
-
-<!--
-<p align="center">
-  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
--->
+### ✅ **Todo App (Simple but Powerful)**
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white; margin: 15px 0;">
+  <p><strong>Tech Stack:</strong> React + LocalStorage</p>
+  <p><strong>Features:</strong> Tiny utilities, accessible keyboard flow</p>
+  <p><strong>Repo:</strong> <a href="https://github.com/dannfrd/todo-app-simple" style="color: white; text-decoration: underline;">View on GitHub</a></p>
+</div>
 
 ---
 
-### Contact
+## 🎯 **Development Principles**
 
-<p align="center">
-  <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/dannfrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; text-align: center;">
+  <h4 style="color: white; margin: 0 0 10px 0;">🎨 Design Systems</h4>
+  <p style="color: white; margin: 0;">Semantics first, then the glitter</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; text-align: center;">
+  <h4 style="color: #333; margin: 0 0 10px 0;">⚡ Performance</h4>
+  <p style="color: #333; margin: 0;">Measure everything: CLS, LCP, TTI</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; text-align: center;">
+  <h4 style="color: #333; margin: 0 0 10px 0;">♿ Accessibility</h4>
+  <p style="color: #333; margin: 0;">Keyboard works or it doesn't ship</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 20px; border-radius: 15px; text-align: center;">
+  <h4 style="color: #333; margin: 0 0 10px 0;">🔧 Clean Code</h4>
+  <p style="color: #333; margin: 0;">Understandable data flows beat clever hacks</p>
+</div>
+
+</div>
 
 ---
 
-<details>
-  <summary><b>More about me</b></summary>
+## 📊 **GitHub Stats**
 
-```js
+<div align="center">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0;">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dannfrd&theme=github-dark-blue&hide_border=true&background=transparent" />
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <img alt="Profile Visits" src="https://komarev.com/ghpvc/?username=dannfrd&label=Profile%20visits&color=8B5CF6&style=for-the-badge" />
+  </div>
+</div>
+
+---
+
+## 🎭 **About Me**
+
+<div align="center">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; color: white; margin: 20px 0;">
+    <h3 style="margin: 0 0 15px 0;">🚀 Developer Profile</h3>
+    
+```javascript
 class Developer {
   constructor() {
     this.name = 'Ardan Ferdiansah';
     this.alias = 'dannfrd';
     this.role = 'Frontend Developer & UI/UX Designer';
-    this.languageSpoken = ['id_ID', 'en_US', 'code'];
+    this.languages = ['🇮🇩 Indonesian', '🇺🇸 English', '💻 Code'];
     this.currentlyExploring = 'React Native & Mobile Development';
+    this.passion = 'Creating beautiful user experiences';
+    this.location = 'Indonesia';
+  }
+  
+  sayHello() {
+    return "Hello! I'm passionate about building amazing web experiences! 🚀";
   }
 }
 ```
+  </div>
+</div>
 
-</details>
+---
 
-<!-- Footnote: keep it neat; fewer images = faster render. -->
+## 📞 **Let's Connect!**
+
+<div align="center">
+  <p style="font-size: 1.1rem; color: #8b5cf6; font-weight: 600; margin: 25px 0;">
+    💬 Ready to collaborate? Let's build something amazing together!
+  </p>
+  
+  <div style="margin: 20px 0;">
+    <a href="mailto:ardanferdiansah03@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/dannfrd">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/dannfrd">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://instagram.com/dannfrd">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <p style="color: #8b5cf6; font-size: 0.9rem; margin-top: 40px;">
+    ⭐ If you like what you see, consider giving this repo a star! ⭐
+  </p>
+  
+  <p style="color: #666; font-size: 0.8rem; margin-top: 20px;">
+    Made with ❤️ by Ardan Ferdiansah (dannfrd)
+  </p>
+</div>
