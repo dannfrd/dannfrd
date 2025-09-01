@@ -3,11 +3,11 @@
 <!-- Hero Header with Custom Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=250&section=header&text=Ardan%20Ferdiansah&fontSize=70&fontColor=fff&fontAlign=50&fontAlignY=40&desc=🚀%20Frontend%20Developer%20%26%20🎨%20UI/UX%20Designer&descAlign=50&descAlignY=60&descSize=20" width="100%"/>
 
-<!-- Welcome Message with Sparkles -->
+<!-- Welcome Message with Wave Animation -->
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/> 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hey+there!+👋;Welcome+to+my+universe!+🌟;Let's+create+magic!+✨" alt="Welcome Message" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>
 </h1>
 
 <br>
@@ -65,13 +65,13 @@
 <!-- Hero Coding Animation -->
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Coding Animation"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=💭+%22Code+is+poetry%2C+bugs+are+just+typos%22;💭+%22Debugging+is+like+being+a+detective%22;💭+%22Coffee+%2B+Code+%3D+Magic%22" alt="Developer Quotes" />
   <br><br>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30"> About Me
 
 ```typescript
 interface Developer {
@@ -97,7 +97,7 @@ const dannfrd: Developer = {
 console.log("Building digital experiences that matter! 🌟");
 ```
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Tech Stack
 
 <div align="center">
 
@@ -128,35 +128,35 @@ console.log("Building digital experiences that matter! 🌟");
 
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"> Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60" height="60"/>
       <br><strong>🌟 HUEHUY</strong><br>
       <sub>QR-based voucher platform with WhatsApp OTP</sub><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" height="60"/>
       <br><strong>📱 SIPADU</strong><br>
       <sub>Offline-first mobile attendance app</sub><br>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="60" height="60"/>
       <br><strong>🎭 KYB Group</strong><br>
       <sub>Community portfolio showcase</sub><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" width="60" height="60"/>
       <br><strong>✅ Todo App</strong><br>
       <sub>Keyboard-friendly task manager</sub><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
@@ -167,7 +167,7 @@ console.log("Building digital experiences that matter! 🌟");
 
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> GitHub Analytics
 
 <div align="center">
 
@@ -187,7 +187,7 @@ console.log("Building digital experiences that matter! 🌟");
 
 </div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> My Code Philosophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30"> My Code Philosophy
 
 ```javascript
 const philosophy = {
@@ -210,7 +210,7 @@ while (coding) {
 }
 ```
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"> Let's Connect!
 
 <div align="center">
 
