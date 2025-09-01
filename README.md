@@ -1,44 +1,74 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ardan%20Ferdiansah&fontSize=60&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%26%20UI/UX%20Designer&descAlign=50&descAlignY=55" width="100%"/>
+<!-- Hero Header with Custom Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=250&section=header&text=Ardan%20Ferdiansah&fontSize=70&fontColor=fff&fontAlign=50&fontAlignY=40&desc=🚀%20Frontend%20Developer%20%26%20🎨%20UI/UX%20Designer&descAlign=50&descAlignY=60&descSize=20" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Hey there! Welcome to my digital universe!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Welcome Message with Sparkles -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hey+there!+👋;Welcome+to+my+universe!+🌟;Let's+create+magic!+✨" alt="Welcome Message" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
-<!-- Profile Picture -->
+<br>
+
+<!-- Enhanced Profile Picture with Glow Effect -->
 <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fdannfrd857b4.png?alt=media" 
-     width="150" 
-     height="150" 
+     width="180" 
+     height="180" 
      alt="Ardan Ferdiansah"
-     style="border-radius: 50%; border: 3px solid #667EEA;" />
+     style="border-radius: 50%; border: 4px solid #667EEA; box-shadow: 0 0 30px rgba(102, 126, 234, 0.6); transition: transform 0.3s ease;" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;🎨+UI%2FUX+Designer;✨+Creative+Problem+Solver;💻+Building+Digital+Experiences" alt="Typing SVG" />
+<br><br>
 
-<!-- Social Links -->
-<p>
-  <a href="https://dannfrd.tech">
-    <img src="https://img.shields.io/badge/🌐_Website-667EEA?style=for-the-badge&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/dannfrd">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ardanferdiansah03@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/dannfrd">
-    <img src="https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<!-- Dynamic Role Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Frontend+Developer+%7C+React+%26+Next.js;🎨+UI%2FUX+Designer+%7C+Figma+%26+Design+Systems;✨+Creative+Problem+Solver+%7C+Pixel+Perfect;💻+Full+Stack+Enthusiast+%7C+Always+Learning" alt="Role Animation" />
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=dannfrd&label=👁️%20Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
+<br>
+
+<!-- Separator Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+
+<br>
+
+<!-- Enhanced Social Links with Hover Effects -->
+<div align="center">
+  <a href="https://dannfrd.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Website-Visit%20My%20Portfolio-667EEA?style=for-the-badge&logoColor=white&labelColor=2D1B69" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/dannfrd" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
+  </a>
+  <br>
+  <a href="mailto:ardanferdiansah03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B71C1C" alt="Email" />
+  </a>
+  <a href="https://github.com/dannfrd" target="_blank">
+    <img src="https://img.shields.io/badge/👨‍💻%20GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<!-- Stats & Metrics -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dannfrd&label=👁️%20Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dannfrd?label=🫂%20Followers&style=for-the-badge&color=667eea&labelColor=2D1B69" alt="Followers" />
+  <img src="https://img.shields.io/badge/☕%20Coffee%20Consumed-∞%20Cups-brown?style=for-the-badge&labelColor=8B4513" alt="Coffee" />
+</div>
+
+<!-- Floating Stars Animation -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<!-- Floating Animation -->
+<!-- Hero Coding Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250" alt="Coding GIF"/>
+  <br>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300" alt="Coding Animation"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=💭+%22Code+is+poetry%2C+bugs+are+just+typos%22;💭+%22Debugging+is+like+being+a+detective%22;💭+%22Coffee+%2B+Code+%3D+Magic%22" alt="Developer Quotes" />
+  <br><br>
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
