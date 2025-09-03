@@ -1,5 +1,3 @@
-<p><img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" alt="Web-developer"></p>
-
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Ardan Ferdiansah a Frontend Developer from Indonesia.
