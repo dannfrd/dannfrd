@@ -2,7 +2,7 @@
 
 ### Hello! I'm Ardan Ferdiansah a Frontend Developer from Indonesia.
 
-### Portfolio: [https://dannfrd.tech](https://dannfrd.tech)
+### Portfolio: [https://dannfrd.tech](https://dannfrd.my.id)
 
 <a href="https://linkedin.com/in/dannfrd">
   <img align="left" alt="Ardan Ferdiansah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
