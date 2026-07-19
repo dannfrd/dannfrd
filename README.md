@@ -92,6 +92,20 @@
   <img src="https://streak-stats.demolab.com?user=dannfrd&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
+## OSS Insight
+
+<p align="center">Real-time GitHub activity, powered by <a href="https://ossinsight.io">OSS Insight</a> 👁️ — free & open source.</p>
+
+| Currently Working On - Last 28 days | Repository Activity Trends |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=151101915&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=987083769&image_size=auto" />|
+
+| Repository Performance Stats - Last 28 days | Star History |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=987083769&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=952881318&image_size=auto" />|
+
+<p align="center"><sub>Repo widgets above track <code>dannfrd/todo-app-simple</code> & <code>dannfrd/porto-with-dann</code>. Swap the <code>repo_id</code> in any URL to feature a different repo, or grab more designs from the <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">OSS Insight widget gallery</a>.</sub></p>
+
 ## Let's Connect
 
 <p align="center">
