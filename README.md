@@ -1,60 +1,92 @@
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:14B8A6&text=Ardan%20Ferdiansah&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20from%20Indonesia&descAlignY=58&descSize=16" alt="Ardan Ferdiansah profile banner" />
+</div>
 
-### Hello! I'm Ardan Ferdiansah a Frontend Developer from Indonesia.
+<div align="center">
+  <a href="https://dannfrd.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-dannfrd.my.id-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/dannfrd">
+    <img src="https://img.shields.io/badge/LinkedIn-dannfrd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ardanferdiansah03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ardanferdiansah03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/dannfrd">
+    <img src="https://img.shields.io/badge/Instagram-dannfrd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-### Portfolio: [https://dannfrd.my.id](https://dannfrd.my.id)
+<br />
 
-<a href="https://linkedin.com/in/dannfrd">
-  <img align="left" alt="Ardan Ferdiansah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://instagram.com/dannfrd">
-  <img align="left" alt="Ardan Ferdiansah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<a href="mailto:ardanferdiansah03@gmail.com">
-  <img align="left" alt="Ardan Ferdiansah | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
-</a>
-<a href="https://github.com/dannfrd">
-  <img align="left" alt="Ardan Ferdiansah | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
-</a>
+<table>
+  <tr>
+    <td width="58%">
+      <h2>Hi, I'm Ardan</h2>
+      <p>
+        I build responsive, polished, and user-friendly interfaces for web and mobile experiences.
+        My work focuses on clean frontend architecture, thoughtful UI details, and products that feel easy to use.
+      </p>
+      <p>
+        Currently exploring modern React ecosystems, design systems, and practical product engineering.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <img src="project.png" width="280" alt="Decorative UI illustration" />
+    </td>
+  </tr>
+</table>
 
-<br>
-<br>
+## Tech Stack
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,firebase,figma,git,github,vscode,vercel&perline=7" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Firebase, Figma, Git, GitHub, VS Code, and Vercel" />
+</div>
 
-### 👨‍💻 Languages and Tools
+## Featured Work
 
-<br>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="project2.png" alt="Karang Taruna Krida Yasa Baru website preview" />
+      <h3>Karang Taruna Website</h3>
+      <p>Community organization website with clear navigation, landing section, activity documentation, and admin access.</p>
+    </td>
+    <td width="50%">
+      <img src="project3.png" alt="Todo List App preview" />
+      <h3>Todo List App</h3>
+      <p>A clean productivity app interface with task creation, filtering, completion states, and item counters.</p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/dannfrd" alt="JavaScript"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&link=https://github.com/dannfrd" alt="TypeScript"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/dannfrd" alt="HTML5"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/dannfrd" alt="CSS3"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&link=https://github.com/dannfrd" alt="Tailwind CSS"></a>
+## GitHub Activity
 
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/dannfrd" alt="React"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextjs&link=https://github.com/dannfrd" alt="Next.js"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&link=https://github.com/dannfrd" alt="React Native"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&link=https://github.com/dannfrd" alt="Figma"></a>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ardan Ferdiansah GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true" alt="Ardan Ferdiansah top languages" />
+</div>
 
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&link=https://github.com/dannfrd" alt="Nodejs"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&link=https://github.com/dannfrd" alt="Vercel"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Firebase-FFA000?style=flat&logo=firebase&link=https://github.com/dannfrd" alt="Firebase"></a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dannfrd&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</div>
 
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&link=https://github.com/dannfrd" alt="VS Code"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/dannfrd" alt="Git"></a>
-<a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/dannfrd" alt="GitHub"></a>
+## Let's Connect
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ardan Ferdiansah's Github Stats">
+  <a href="https://dannfrd.my.id">Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/dannfrd">GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/dannfrd">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:ardanferdiansah03@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dannfrd.dannfrd" alt="visitor badge">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dannfrd&style=flat-square&color=2563EB" alt="Profile views" />
+</div>
 
----
-
-Credits: [dannfrd](https://github.com/dannfrd)
-
-Last Edited on: 03/09/2025
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14B8A6,100:2563EB" alt="Profile footer" />
+</div>
