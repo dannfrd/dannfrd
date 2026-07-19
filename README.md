@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:14B8A6&text=Ardan%20Ferdiansah&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Indonesia&descAlignY=58&descSize=16" alt="Ardan Ferdiansah profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563EB,100:14B8A6&text=Ardan%20Ferdiansah&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Indonesia&descAlignY=52&descSize=17&animation=fadeIn" alt="Ardan Ferdiansah profile banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Next.js+%2B+Node.js+%2B+Express;I+build+clean%2C+user-friendly+web+apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,43 +25,86 @@
 
 <table>
   <tr>
-    <td width="58%">
-      <h2>Hi, I'm Ardan 👋</h2>
+    <td width="60%" valign="top">
+      <h2>👋 Hi, I'm Ardan</h2>
       <p>
         I'm a Full Stack Developer who enjoys building complete web experiences — from
         polished, responsive interfaces to the APIs and databases that power them.
         I care about clean architecture on both ends of the stack: thoughtful UI details
         on the frontend, and reliable, well-structured services on the backend.
       </p>
-      <p>
-        Currently building with React/Next.js on the frontend and Node.js + Express with
-        SQL databases on the backend, while exploring modern design systems and
-        practical product engineering.
-      </p>
+      <ul>
+        <li>🔭 Currently building full stack apps with <b>React / Next.js</b> + <b>Node.js / Express</b></li>
+        <li>🗄️ Working with <b>PostgreSQL</b> &amp; <b>MySQL</b> for data-driven backends</li>
+        <li>🌱 Leveling up on modern design systems and practical product engineering</li>
+        <li>💬 Ask me about React, Next.js, Tailwind, or full stack architecture</li>
+        <li>📫 Reach me at <b>ardanferdiansah03@gmail.com</b></li>
+      </ul>
     </td>
-    <td width="42%" align="center">
+    <td width="40%" align="center">
       <img src="project.png" width="280" alt="Decorative UI illustration" />
     </td>
   </tr>
 </table>
 
-## Tech Stack
+<br />
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <p><b>Frontend</b></p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&perline=7" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS" />
   <br /><br />
-  <p><b>Backend & Database</b></p>
+  <p><b>Backend &amp; Database</b></p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,firebase&perline=7" alt="Node.js, Express, PostgreSQL, MySQL, Firebase" />
   <br /><br />
-  <p><b>Tools & Platforms</b></p>
+  <p><b>Tools &amp; Platforms</b></p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel&perline=7" alt="Figma, Git, GitHub, VS Code, Vercel" />
 </div>
 
-## Featured Work
+<br />
+
+## 📊 GitHub Score &amp; Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Ardan Ferdiansah GitHub trophies" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ardan Ferdiansah GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true" alt="Ardan Ferdiansah top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dannfrd&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dannfrd&bg_color=1a1b27&color=38bdf8&line=2563eb&point=14b8a6&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+<br />
+
+## 👁️ OSS Insight
+
+<p align="center">Real-time GitHub activity, powered by <a href="https://ossinsight.io">OSS Insight</a> — free &amp; open source.</p>
+
+| Currently Working On - Last 28 days | Repository Activity Trends |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=151101915&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=987083769&image_size=auto" />|
+
+| Repository Performance Stats - Last 28 days | Star History |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=987083769&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=952881318&image_size=auto" />|
+
+<p align="center"><sub>Repo widgets above track <code>dannfrd/todo-app-simple</code> &amp; <code>dannfrd/porto-with-dann</code>. Swap the <code>repo_id</code> in any URL to feature a different repo, or grab more designs from the <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">OSS Insight widget gallery</a>.</sub></p>
+
+<br />
+
+## 💼 Featured Work
 
 <details>
-<summary>📁 Click to view projects</summary>
+<summary><b>📁 Click to expand projects</b></summary>
 <br />
 
 <table>
@@ -77,36 +124,9 @@
 
 </details>
 
-## GitHub Score & Activity
+<br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Ardan Ferdiansah GitHub trophies" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ardan Ferdiansah GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true" alt="Ardan Ferdiansah top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dannfrd&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</div>
-
-## OSS Insight
-
-<p align="center">Real-time GitHub activity, powered by <a href="https://ossinsight.io">OSS Insight</a> 👁️ — free & open source.</p>
-
-| Currently Working On - Last 28 days | Repository Activity Trends |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=151101915&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=987083769&image_size=auto" />|
-
-| Repository Performance Stats - Last 28 days | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=987083769&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=952881318&image_size=auto" />|
-
-<p align="center"><sub>Repo widgets above track <code>dannfrd/todo-app-simple</code> & <code>dannfrd/porto-with-dann</code>. Swap the <code>repo_id</code> in any URL to feature a different repo, or grab more designs from the <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">OSS Insight widget gallery</a>.</sub></p>
-
-## Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://dannfrd.my.id">Portfolio</a>
