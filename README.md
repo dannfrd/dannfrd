@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:14B8A6&text=Ardan%20Ferdiansah&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20from%20Indonesia&descAlignY=58&descSize=16" alt="Ardan Ferdiansah profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:14B8A6&text=Ardan%20Ferdiansah&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Indonesia&descAlignY=58&descSize=16" alt="Ardan Ferdiansah profile banner" />
 </div>
 
 <div align="center">
@@ -22,13 +22,17 @@
 <table>
   <tr>
     <td width="58%">
-      <h2>Hi, I'm Ardan</h2>
+      <h2>Hi, I'm Ardan 👋</h2>
       <p>
-        I build responsive, polished, and user-friendly interfaces for web and mobile experiences.
-        My work focuses on clean frontend architecture, thoughtful UI details, and products that feel easy to use.
+        I'm a Full Stack Developer who enjoys building complete web experiences — from
+        polished, responsive interfaces to the APIs and databases that power them.
+        I care about clean architecture on both ends of the stack: thoughtful UI details
+        on the frontend, and reliable, well-structured services on the backend.
       </p>
       <p>
-        Currently exploring modern React ecosystems, design systems, and practical product engineering.
+        Currently building with React/Next.js on the frontend and Node.js + Express with
+        SQL databases on the backend, while exploring modern design systems and
+        practical product engineering.
       </p>
     </td>
     <td width="42%" align="center">
@@ -40,7 +44,14 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,firebase,figma,git,github,vscode,vercel&perline=7" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Firebase, Figma, Git, GitHub, VS Code, and Vercel" />
+  <p><b>Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&perline=7" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS" />
+  <br /><br />
+  <p><b>Backend & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,firebase&perline=7" alt="Node.js, Express, PostgreSQL, MySQL, Firebase" />
+  <br /><br />
+  <p><b>Tools & Platforms</b></p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel&perline=7" alt="Figma, Git, GitHub, VS Code, Vercel" />
 </div>
 
 ## Featured Work
