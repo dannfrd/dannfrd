@@ -56,6 +56,10 @@
 
 ## Featured Work
 
+<details>
+<summary>📁 Click to view projects</summary>
+<br />
+
 <table>
   <tr>
     <td width="50%">
@@ -71,7 +75,13 @@
   </tr>
 </table>
 
-## GitHub Activity
+</details>
+
+## GitHub Score & Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Ardan Ferdiansah GitHub trophies" />
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dannfrd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ardan Ferdiansah GitHub stats" />
