@@ -11,6 +11,13 @@
   <a href="https://linkedin.com/in/dannfrd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ardanferdiansah03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/dannfrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/dannfrd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=dannfrd&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dannfrd?label=Followers&style=flat-square&color=14B8A6" alt="Followers" />
 </div>
 
 <br />
@@ -24,6 +31,7 @@
       <ul>
         <li>🔭 React / Next.js + Node.js / Express</li>
         <li>🗄️ PostgreSQL &amp; MySQL</li>
+        <li>🌱 Currently exploring cloud &amp; DevOps basics</li>
         <li>📫 ardanferdiansah03@gmail.com</li>
       </ul>
     </td>
@@ -54,6 +62,16 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannfrd&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannfrd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
 <br />
 
 ## 💼 Featured Work
@@ -61,12 +79,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="project2.png" alt="Karang Taruna Website" />
+      <img src="./assets/project2.png" alt="Karang Taruna Website" />
       <h3>Karang Taruna Website</h3>
       <p>Community organization site with landing page, activity docs, and admin access.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="project3.png" alt="Todo List App" />
+      <img src="./assets/project3.png" alt="Todo List App" />
       <h3>Todo List App</h3>
       <p>Task app with creation, filtering, completion states, and counters.</p>
       <a href="https://github.com/dannfrd/todo-app-simple"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
