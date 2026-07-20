@@ -23,27 +23,30 @@
 
 <br />
 
+## 👋 Hi, I'm Ardan
+
+I'm a Full Stack Developer who enjoys building complete web experiences — from polished, responsive interfaces to the APIs and databases that power them. I care about clean architecture on both ends of the stack: thoughtful UI details on the frontend, and reliable, well-structured services on the backend.
+
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h2>👋 Hi, I'm Ardan</h2>
-      <p>
-        I'm a Full Stack Developer who enjoys building complete web experiences — from
-        polished, responsive interfaces to the APIs and databases that power them.
-        I care about clean architecture on both ends of the stack: thoughtful UI details
-        on the frontend, and reliable, well-structured services on the backend.
-      </p>
-      <ul>
-        <li>🔭 Currently building full stack apps with <b>React / Next.js</b> + <b>Node.js / Express</b></li>
-        <li>🗄️ Working with <b>PostgreSQL</b> &amp; <b>MySQL</b> for data-driven backends</li>
-        <li>🌱 Leveling up on modern design systems and practical product engineering</li>
-        <li>💬 Ask me about React, Next.js, Tailwind, or full stack architecture</li>
-        <li>📫 Reach me at <b>ardanferdiansah03@gmail.com</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="project.png" width="280" alt="Decorative UI illustration" />
-    </td>
+    <td>🔭</td>
+    <td>Currently building full stack apps with <b>React / Next.js</b> + <b>Node.js / Express</b></td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td>Working with <b>PostgreSQL</b> &amp; <b>MySQL</b> for data-driven backends</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Leveling up on modern design systems and practical product engineering</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td>Ask me about React, Next.js, Tailwind, or full stack architecture</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>Reach me at <b>ardanferdiansah03@gmail.com</b></td>
   </tr>
 </table>
 
@@ -64,7 +67,7 @@
 
 <br />
 
-## 📊 GitHub Score &amp; Activity
+## 📊 GitHub Score & Activity
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Ardan Ferdiansah GitHub trophies" />
@@ -103,18 +106,14 @@
 
 ## 💼 Featured Work
 
-<details>
-<summary><b>📁 Click to expand projects</b></summary>
-<br />
-
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="project2.png" alt="Karang Taruna Krida Yasa Baru website preview" />
       <h3>Karang Taruna Website</h3>
       <p>Community organization website with clear navigation, landing section, activity documentation, and admin access.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="project3.png" alt="Todo List App preview" />
       <h3>Todo List App</h3>
       <p>A clean productivity app interface with task creation, filtering, completion states, and item counters.</p>
@@ -122,7 +121,11 @@
   </tr>
 </table>
 
-</details>
+<p align="center">
+  <a href="https://dannfrd.my.id">
+    <img src="https://img.shields.io/badge/See%20more%20on%20my%20portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="See more on my portfolio" />
+  </a>
+</p>
 
 <br />
 
