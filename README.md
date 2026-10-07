@@ -100,7 +100,6 @@ Task management app with create/filter/complete features and counters.
 
 - Build more production-ready full stack applications
 - Improve API architecture and backend performance
-- Learn CI/CD and DevOps workflow
 
 ---
 
