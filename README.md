@@ -87,12 +87,8 @@ I build modern web apps with clean UI, scalable backend, and solid performance.
 
 ## 💼 Featured Projects
 
-### 1) Karang Taruna Website
-Community organization website with landing page, activity docs, and admin access.
-
-### 2) Todo List App
-Task management app with create/filter/complete features and counters.  
-🔗 Repo: [github.com/dannfrd/todo-app-simple](https://github.com/dannfrd/todo-app-simple)
+### 1) App Dermify
+https://app.dermify.my.id/#top
 
 ---
 
