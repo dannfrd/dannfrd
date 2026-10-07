@@ -77,14 +77,6 @@ I build modern web apps with clean UI, scalable backend, and solid performance.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dannfrd&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
-
----
-
 ## 💼 Featured Projects
 
 ### 1) App Dermify
